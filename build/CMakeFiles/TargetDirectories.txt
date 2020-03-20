@@ -1,0 +1,3 @@
+E:/File/CSIE/CG/CGHW1-2019-HW2/build/CMakeFiles/app.dir
+E:/File/CSIE/CG/CGHW1-2019-HW2/build/CMakeFiles/ALL_BUILD.dir
+E:/File/CSIE/CG/CGHW1-2019-HW2/build/CMakeFiles/ZERO_CHECK.dir
